@@ -1,0 +1,1 @@
+# frontend-mentor-challenge-interactive-rating-component
